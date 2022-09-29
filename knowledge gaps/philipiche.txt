@@ -1,0 +1,1 @@
+What are inline elements and block elements?
